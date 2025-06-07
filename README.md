@@ -1,18 +1,25 @@
-# SmolNudge
+# 🧠 SmolNudge
 
-SmolNudge is a fun, emoji-filled wellness app that helps users track their mood, stay on top of medication, and get a daily laugh.
+**SmolNudge** is a delightful, emoji-powered wellness app that helps you stay in tune with your mind and body. From mood check-ins to medication reminders — and a daily joke to keep things light — SmolNudge is your tiny companion for better self-care 💖
+
+---
 
 ## ✨ Features
 
-- 🌤️ Daily mood check-ins
-- 💊 Medication reminders
-- 😂 Joke of the day
-- 📈 Wellness tracking dashboard
+- 🌈 **Daily Mood Check-ins** — Track how you're feeling in a fun, visual way
+- 💊 **Medication Reminders** — Never miss a dose again
+- 😂 **Joke of the Day** — Because laughter is medicine too
+- 📊 **Mood Trends** — See how your well-being evolves over time
+- 🎨 **Colorful, Accessible UI** — Designed to be inclusive and joyful
+
+---
 
 ## 🚀 Getting Started
 
-To run locally:
+Clone the repo and install dependencies:
 
 ```bash
+git clone https://github.com/your-username/smolnudge.git
+cd smolnudge
 npm install
 npx expo start
